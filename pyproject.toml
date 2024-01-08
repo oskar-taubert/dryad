@@ -1,0 +1,5 @@
+[project]
+name = "dryad"
+version = "0.0.1"
+authors = [{name="Oskar Taubert", email="oskar.taubert@kit.edu"}]
+description = "Educational implementation of random forest models"
